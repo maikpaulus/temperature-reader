@@ -1,0 +1,1 @@
+micro service to read temperature from radio signal devices with pilight and store them in a mongodb database

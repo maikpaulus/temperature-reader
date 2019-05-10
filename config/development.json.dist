@@ -1,0 +1,23 @@
+{
+    "settings": {
+        "devMode": true,
+        "saveInterval: 30000
+    },
+    "database": {
+        "host": "",
+        "port": 1234,
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "devices": [
+        {
+            "id": 1234,
+            "name": "device 1"
+        },
+        {
+            "id": 5678,
+            "name": "device 2"
+        }
+    ]
+}
